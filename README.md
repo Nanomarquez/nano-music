@@ -2,6 +2,8 @@
 
 Develop an elegant React.js Music Application. 
 
+[Deploy](https://nano-music.netlify.app/search/gardelitos)
+
 Check out the complete project requirements [here](https://docs.google.com/document/d/13PeFwRlPEhMw_HPyrIrInvQuKaVWnpNmcv-y3NA208s/edit?usp=sharing)
 
 ![preview1](https://raw.githubusercontent.com/Nanomarquez/nano-music/Nano/src/assets/preview1.PNG)
