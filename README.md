@@ -69,16 +69,12 @@ Visit the [Deploy](https://nano-music.netlify.app)
 
 <h2 align="center"> Responsive list </h2>
 <p align="center">
-
-![preview5](https://raw.githubusercontent.com/Nanomarquez/nano-music/Nano/src/assets/preview5.PNG)
-
+<img align="center" alt="preview1" src="https://raw.githubusercontent.com/Nanomarquez/nano-music/Nano/src/assets/preview5.PNG"/>
 </p>
 
 <h2 align="center"> Responsive menu </h2>
 <p align="center">
-
-![preview6](https://raw.githubusercontent.com/Nanomarquez/nano-music/Nano/src/assets/preview6.PNG)
-
+<img align="center" alt="preview1" src="https://raw.githubusercontent.com/Nanomarquez/nano-music/Nano/src/assets/preview6.PNG"/>
 </p>
 <h2 align="center"> Preview desktop </h2>
 
